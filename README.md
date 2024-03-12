@@ -8,4 +8,11 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GiT
-…
+-git clone
+-git init
+-git branch
+-git checkout
+-git add
+-git commit
+-git merge
+-git push
